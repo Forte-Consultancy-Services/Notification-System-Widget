@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+<html>
+  
+   <head>
+     
+      <meta http-equiv="Content-Type" content="text/html" charset="utf-8" lang="en">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;">   
+      <title>Notification System Widget v1.0</title>
+ 
+      <link rel="shortcut icon" href="img/favicon.gif"/>   
+      <link rel="stylesheet" href="css/base.css" media="screen"/>
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.14.7/react.js"></script>
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.14.7/react-dom.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.14.7/react-with-addons.js"></script>
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.6.15/browser.js"></script>
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.5/marked.min.js"></script>
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/favico.js/0.3.4/favico.js"></script>    
+   </head>
+  
+  <body id="site-body">
+      <div id="content">
+          <h1>Social List</h1><img src='img/favicon.gif' />
+          <h2>Look at the social notifications increment at the title on the browser tab!!</h2>
+          <h3>This is a static list of social notifications at the moment.</h3>
+          <p><a href='http://cookiesncream.github.io/Simply-Me/index.html'>Hi! I am an unread social activity. Please read me.</a></p>
+          <p><a href='http://cookiesncream.github.io/Simply-Me/index.html'>Hi! I am an unread social activity. Please read me.</a></p> 
+          <p><a href='http://cookiesncream.github.io/Simply-Me/index.html'>Hi! I am an unread social activity. Please read me.</a></p>
+          <p><a href='http://cookiesncream.github.io/Simply-Me/index.html'>Hi! I am an unread social activity. Please read me.</a></p>
+          <p><a href='http://cookiesncream.github.io/Simply-Me/index.html'>Hi! I am an unread social activity. Please read me.</a></p>
+          <p><a href='http://cookiesncream.github.io/Simply-Me/index.html'>Hi! I am an unread social activity. Please read me.</a></p>
+          <p><a href='http://cookiesncream.github.io/Simply-Me/index.html'>Hi! I am an unread social activity. Please read me.</a></p>
+      </div>
+      <script type="text/babel">
+            // The social notifications increment at the title on the browser tab is only for simulating a dynamic list of data fetched from the server. 
+            // The retrieved notifications will be reflected on this page (SocialPage data={this.state.data}) in place of the static list of social notifications when users are logged into respective accounts.
+             var favicon = new Favico({
+	  position  :'up',
+	  animation :'popFade',
+	  bgColor   :'#dd2c00',
+	  textColor :'#fff0e2'
+             });
+
+             var num = 0;
+             function generateNum() {
+	  num++;
+	  return num;
+             }
+
+              function showFaviconBadge() {
+	   var num = generateNum();
+	   favicon.badge(num);	
+              }
+
+              function newUpdate() {
+	   update = setInterval(showFaviconBadge, 2000);
+              }
+
+              var docBody  = document.getElementById('site-body');
+              docBody.onload = newUpdate;
+
+       </script>
+   </body>
+
+</html>
