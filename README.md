@@ -11,5 +11,8 @@ To build a notification system widget for web apps and mobile apps in the sharin
 
 3) Go to http://localhost:3000
 
+# Semantic Versioning 
+[See VERSIONING](http://semver.org/)
+
 # License
 [See LICENSE](https://github.com/Forte-Consultancy-Services/Notification-System-Widget-v1.0/blob/master/LICENSE.md) 
