@@ -2,7 +2,7 @@ BSD 3-Clause License
 
 Copyright © 2016-2017 Linda Lim. All Rights Reserved.
 
-No posts, images, videos, and audio clips are to be copied and distributed without the authors' or copyright holders' permission. All other applications are covered by the BSD 3-Clause License.
+No content, images, videos, audio clips, visual design, and the logotype are to be copied and distributed without the authors' or copyright holders' permission. All other applications are covered by the BSD 3-Clause License.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
