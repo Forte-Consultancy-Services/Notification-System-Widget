@@ -24,7 +24,7 @@ To build a notification system widget for web apps and mobile apps in the sharin
 
 # Contributor Code of Conduct
 
-The Code of Conduct is adapted from the [Contributor Covenant](http://contributor-covenant.org/), version 1.4, available at http://contributor-covenant.org/version/1/4.
+The [Code of Conduct]() is adapted from the [Contributor Covenant](http://contributor-covenant.org/), version 1.4, available at http://contributor-covenant.org/version/1/4.
 
 # How to contribute to this project
 Stay tuned...
