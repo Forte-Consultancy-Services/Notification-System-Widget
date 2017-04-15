@@ -22,5 +22,9 @@ To build a notification system widget for web apps and mobile apps in the sharin
 # License
 [See LICENSE](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/LICENSE.md) 
 
+# Contributor Code of Conduct
+
+The Code of Conduct is adapted from the [Contributor Covenant](http://contributor-covenant.org/), version 1.4, available at http://contributor-covenant.org/version/1/4.
+
 # How to contribute to this project
 Stay tuned...
