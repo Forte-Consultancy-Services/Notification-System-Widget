@@ -4,6 +4,10 @@ This is a notification system widget to provide particular information to a user
 # Motivation
 To build a notification system widget for web apps and mobile apps in the sharing economy using React.js and React Native.
 
+# Tech Stack
+
+* [React](https://facebook.github.io/react/)
+
 # Instructions to run the Notification System Widget:
 1) Decompress the WinRAR ZIP archive
 
