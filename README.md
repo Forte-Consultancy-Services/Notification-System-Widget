@@ -6,7 +6,7 @@ To build a notification system widget for web apps and mobile apps in the sharin
 
 # Tech Stack
 
-* [React](https://facebook.github.io/react/)
+* [React.js](https://facebook.github.io/react/)
 * [Babel](https://babeljs.io/)
 * [jQuery](http://jquery.com/)
 * [mark.js](https://markjs.io/)
