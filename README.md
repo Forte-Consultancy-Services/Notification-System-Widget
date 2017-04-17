@@ -12,16 +12,16 @@ To build a notification system widget for web apps and mobile apps in the sharin
 * [marked.js](http://www.javascriptoo.com/marked)
 * [favico.js](http://lab.ejci.net/favico.js/)
 
+# License
+[See LICENSE](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/LICENSE.md)
+
 # Instructions to run the Notification System Widget:
 1) Decompress the WinRAR ZIP archive
 
 2) Start the preferred server (GO, JS, PHP, PL, Python, Ruby)
 
 3) Go to http://localhost:3000
-
-# License
-[See LICENSE](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/LICENSE.md) 
-
+ 
 # Contributor Code of Conduct
 
 The [Code of Conduct](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/CODE-OF-CONDUCT.md) is adapted from the [Contributor Covenant](http://contributor-covenant.org/), version 1.4, available at http://contributor-covenant.org/version/1/4.
