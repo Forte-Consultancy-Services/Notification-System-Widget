@@ -34,11 +34,12 @@ The [Code of Conduct](https://github.com/Forte-Consultancy-Services/Notification
 
 2) Fork the Notification System Widget repo by clicking on the "Fork" button at the top right-hand side of the repo.
 
-3) Raise an issue by indicating what the issue is and why is it an issue, what needs improvement or fixing, what can be done to improve or fix it
+3) Raise an [issue](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/issues/new) by indicating a title for the issue, what the issue is, why is it an issue, what needs improvement or fixing, and what can be done to improve or fix it.
 
-4) Work on the improvement or fixture and send a pull request for review
+4) Work on the improvement or fixture and send a pull request for review.
 
 5) Upon pull request review approval, status checks will be carried out.
 
-6) Upon status checks passing, the improvement or fixture will be merged with the master branch and the issue will be closed.
+6) Upon passing the status checks, the improvement or fixture will be merged with the master branch and the issue will be closed.
  
+7) Thanks for your invaluable contribution. 
