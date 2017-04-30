@@ -38,6 +38,7 @@ The [Code of Conduct](https://github.com/Forte-Consultancy-Services/Notification
 
 4) Work on the improvement or fixture and send a pull request for review
 
-5) Upon pull request approval, status checks will be carried out.
+5) Upon pull request review approval, status checks will be carried out.
 
-6) Stay tuned... 
+6) Upon status checks passing, the improvement or fixture will be merged with the master branch and the issue will be closed.
+ 
