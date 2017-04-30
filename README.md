@@ -28,7 +28,7 @@ To build a notification system widget for web apps and mobile apps in the sharin
 
 The [Code of Conduct](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/CODE-OF-CONDUCT.md) is adapted from the [Contributor Covenant](http://contributor-covenant.org/), version 1.4, available at http://contributor-covenant.org/version/1/4.
 
-# How to contribute to this project
+# How to contribute to this project (Coming soon! Stay tuned!)
 
 1) Familiarize yourself with the [contributor code of conduct](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/CODE-OF-CONDUCT.md) to have an effective contributor experience.
 
@@ -38,8 +38,8 @@ The [Code of Conduct](https://github.com/Forte-Consultancy-Services/Notification
 
 4) Work on the improvement or fixture and [send a pull request](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/pulls) for review.
 
-5) Upon pull request review approval, status checks will be carried out.
+5) Upon pull request review approval by the author, status checks will be carried out.
 
-6) Upon passing the status checks, the improvement or fixture will be merged with the master branch and the issue will be closed.
+6) Upon passing the status checks, the improvement or fixture will be merged with the master branch and the issue will be closed by the author.
  
 7) Thanks for your invaluable contribution. 
