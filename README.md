@@ -22,7 +22,7 @@ To build a notification system widget for web apps and mobile apps in the sharin
 
 3) Go to http://localhost:3000
  
-4) Adapt to your project, but don't forget to acknowledge the author according to the [license](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/LICENSE.md).
+4) Adapt to your project, but don't forget to acknowledge the author according to the [license](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/LICENSE.md) at the top of every code file as a comment.
 
 # Contributor Code of Conduct
 
