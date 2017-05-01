@@ -15,7 +15,7 @@ To build a notification system widget for web apps and mobile apps in the sharin
 # License
 [See LICENSE](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/LICENSE.md)
 
-# Instructions to run the Notification System Widget (please :star:):
+# Instructions to run the Notification System Widget :star::
 1) Decompress the WinRAR ZIP archive
 
 2) Start the preferred server (GO, JS, PHP, PL, Python, Ruby)
