@@ -1,4 +1,4 @@
-# Notification System Widget :loudspeaker: :star:
+# Notification System Widget :loudspeaker: 
 This is a notification system widget to provide particular information to a user and obtain response from that user, based on the type of user and the type of notification used in the sharing economy. The current version (created using React.js) enables organizations to adapt the widget for their purpose and assumptions. It acts as a web API to React Native (iOS and Android).   
 
 # Motivation
@@ -15,14 +15,14 @@ To build a notification system widget for web apps and mobile apps in the sharin
 # License
 [See LICENSE](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/LICENSE.md)
 
-# Instructions to run the Notification System Widget:
+# Instructions to run the Notification System Widget (please :star:):
 1) Decompress the WinRAR ZIP archive
 
 2) Start the preferred server (GO, JS, PHP, PL, Python, Ruby)
 
 3) Go to http://localhost:3000
  
-4) Adapt to your project, but don't forget to acknowledge the author according to the [license](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/LICENSE.md) at the top of every code file as a comment.
+4) Adapt to your project, but don't forget to acknowledge the author according to the [license](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/LICENSE.md) at the top of every code template file as a comment.
 
 # Contributor Code of Conduct
 
