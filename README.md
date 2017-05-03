@@ -44,5 +44,15 @@ To build a notification system widget for web apps and mobile apps in the sharin
 
 The [Code of Conduct](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/CODE-OF-CONDUCT.md) is adapted from the [Contributor Covenant](http://contributor-covenant.org/), version 1.4, available at http://contributor-covenant.org/version/1/4.
 
+# FAQ
+
+Stay tuned...
+
+# Support
+
+* Join the discussion on Slack
+
+Stay tuned...
+
 # License
 [See LICENSE](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/LICENSE.md)
