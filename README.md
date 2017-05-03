@@ -12,9 +12,6 @@ To build a notification system widget for web apps and mobile apps in the sharin
 * [marked.js](http://www.javascriptoo.com/marked)
 * [favico.js](http://lab.ejci.net/favico.js/)
 
-# License
-[See LICENSE](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/LICENSE.md)
-
 # Instructions to run the Notification System Widget :star::
 1) Decompress the WinRAR ZIP archive
 
@@ -22,13 +19,12 @@ To build a notification system widget for web apps and mobile apps in the sharin
 
 3) Go to http://localhost:3000
  
-4) Adapt to your project, but don't forget to acknowledge the author according to the [license](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/LICENSE.md) at the top of every code template file as a comment.
-
-# Contributor Code of Conduct
-
-The [Code of Conduct](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/CODE-OF-CONDUCT.md) is adapted from the [Contributor Covenant](http://contributor-covenant.org/), version 1.4, available at http://contributor-covenant.org/version/1/4.
+4) Adapt to your project, but don't forget to acknowledge the author according to the [license](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/LICENSE.md) at the top of every code template file as a comment (Coming soon! Stay tuned!). 
 
 # How to contribute to this project (Coming soon! Stay tuned!)
+
+* [Issue Tracker]()
+* [Source Code]()
 
 1) Familiarize yourself with the [contributor code of conduct](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/CODE-OF-CONDUCT.md) to have an effective contributor experience.
 
@@ -43,3 +39,10 @@ The [Code of Conduct](https://github.com/Forte-Consultancy-Services/Notification
 6) Upon passing the status checks, the improvement or fixture will be merged with the master branch and the issue will be closed by the author.
  
 7) Thanks for your invaluable contribution. :heart:
+
+# Contributor Code of Conduct
+
+The [Code of Conduct](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/CODE-OF-CONDUCT.md) is adapted from the [Contributor Covenant](http://contributor-covenant.org/), version 1.4, available at http://contributor-covenant.org/version/1/4.
+
+# License
+[See LICENSE](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/LICENSE.md)
