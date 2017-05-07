@@ -35,7 +35,7 @@ To build a notification system widget for web apps and mobile apps in the sharin
 
 3) Raise an [issue](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/issues/new) by indicating a title for the issue, what the issue is, why is it an issue, what needs improvement or fixing, and what can be done to improve or fix it.
 
-4) Work on the improvement or fixture and [send a pull request](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/pulls) for review.
+4) Work on the improvement or fixture and [send a pull request](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/pulls) for review comparing a new branch of modifications with the base and indicating the associated issue #.
 
 5) Upon pull request review approval by the author, status checks will be carried out.
 
@@ -47,11 +47,12 @@ To build a notification system widget for web apps and mobile apps in the sharin
 
 The [Code of Conduct](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/CODE-OF-CONDUCT.md) is adapted from the [Contributor Covenant](http://contributor-covenant.org/), version 1.4, available at http://contributor-covenant.org/version/1/4.
 
-# FAQ
+# FAQ (Coming soon! Stay tuned!)
 
-Stay tuned...
+* How to use
+* How to contribute
 
-# Support
+# Support (Coming soon! Stay tuned!)
 
 * Join the discussion on Slack
 
