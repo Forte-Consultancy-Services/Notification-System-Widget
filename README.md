@@ -56,7 +56,5 @@ The [Code of Conduct](https://github.com/Forte-Consultancy-Services/Notification
 
 * Join the discussion on Slack
 
-Stay tuned...
-
 # License
 [See LICENSE](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/LICENSE.md)
