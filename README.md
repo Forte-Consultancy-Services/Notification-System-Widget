@@ -21,7 +21,7 @@ To build a notification system widget for web apps and mobile apps in the sharin
  
 4) Adapt to your project, but don't forget to acknowledge the author according to the [license](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/LICENSE.md) at the top of every code template file as a comment (Coming soon! Stay tuned!). 
 
-# How to contribute to this project (Coming soon! Stay tuned!)
+# Instructions to contribute to this project (Coming soon! Stay tuned!)
 
 * [Issue Tracker](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/issues)
 * [Source Code](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/index.html)
