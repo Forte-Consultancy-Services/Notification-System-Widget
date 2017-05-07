@@ -23,11 +23,11 @@ To build a notification system widget for web apps and mobile apps in the sharin
 
 # How to contribute to this project (Coming soon! Stay tuned!)
 
-* [Issue Tracker]()
+* [Issue Tracker](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/issues)
 * [Source Code](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/index.html)
 * [Fork Repo]()
-* [Raise Issue]()
-* [Send Pull Request]()
+* [Raise Issue Template]()
+* [Send Pull Request Template]()
 
 1) Familiarize yourself with the [contributor code of conduct](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/CODE-OF-CONDUCT.md) to have an effective contributor experience.
 
