@@ -35,7 +35,7 @@ To build a notification system widget for web apps and mobile apps in the sharin
 
 3) Raise an [issue](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/issues/new) by indicating a title for the issue, what the issue is, why is it an issue, what needs improvement or fixing, and what can be done to improve or fix it.
 
-4) Work on the improvement or fixture and [send a pull request](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/pulls) for review comparing a new branch of modifications with the base and indicating the associated issue #.
+4) Work on the improvement or fixture and [send a pull request](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/pulls) for review, comparing a new head branch of modifications with the base branch and indicating the associated issue # with the pull request.
 
 5) Upon pull request review approval by the author, status checks will be carried out.
 
