@@ -26,7 +26,7 @@ To build a notification system widget for web apps and mobile apps in the sharin
 * [Background]()
 * [Source Code](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/index.html)
 * [Issue Tracker](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/issues)
-* [Latest Release]()
+* [Latest Release](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/releases/tag/v1.0)
 * [Change Log](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/compare/v1.0...master)
 * [First Bug]()
 
