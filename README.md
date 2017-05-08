@@ -25,17 +25,16 @@ To build a notification system widget for web apps and mobile apps in the sharin
 
 * [Issue Tracker](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/issues)
 * [Source Code](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/index.html)
-* [Fork Repo Template](https://drive.google.com/file/d/0B3o-a_7h0VNMMGE1emUxc1lxa1U/view?usp=sharing)
-* [Raise Issue Template](https://drive.google.com/file/d/0B3o-a_7h0VNMZ3hCUEpPZ0g2OFU/view?usp=sharing)
-* [Send Pull Request Template](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/compare)
+* [Latest Release]()
+* [First Bug]()
 
 1) Familiarize yourself with the [contributor code of conduct](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/CODE-OF-CONDUCT.md) to have an effective contributor experience.
 
-2) Fork the Notification System Widget repo by clicking on the "Fork" button at the top right-hand side of the repo.
+2) [Fork](https://drive.google.com/file/d/0B3o-a_7h0VNMMGE1emUxc1lxa1U/view?usp=sharing) the Notification System Widget repo by clicking on the "Fork" button at the top right-hand side of the repo.
 
-3) Raise an [issue](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/issues/new) by indicating a title for the issue, what the issue is, why is it an issue, what needs improvement or fixing, and what can be done to improve or fix it.
+3) Raise an [issue](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/issues/new) by indicating a title for the issue, what the issue is, why is it an issue, what needs improvement or fixing, and what can be done to improve or fix it. See [Raise Issue Template](https://drive.google.com/file/d/0B3o-a_7h0VNMZ3hCUEpPZ0g2OFU/view?usp=sharing)
 
-4) Work on the improvement or fixture and [send a pull request](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/pulls) for review, comparing a new head branch of modifications with the base branch and indicating the associated issue # with the pull request.
+4) Work on the improvement or fixture and [send a pull request](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/pulls) for review, comparing a new head branch of modifications with the base branch and indicating the associated issue # with the pull request. See [Send Pull Request Template](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/compare)
 
 5) Upon pull request review approval by the author, status checks will be carried out.
 
@@ -49,12 +48,12 @@ The [Code of Conduct](https://github.com/Forte-Consultancy-Services/Notification
 
 # FAQ (Coming soon! Stay tuned!)
 
-* How to use
-* How to contribute
+* [How to use]()
+* [How to contribute]()
 
 # Support (Coming soon! Stay tuned!)
 
-* Join the discussion on Slack
+* [Join the discussion on Slack]()
 
 # License
 [See LICENSE](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/LICENSE.md)
