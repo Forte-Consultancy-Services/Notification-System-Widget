@@ -37,7 +37,7 @@ The [Code of Conduct](https://github.com/Forte-Consultancy-Services/Notification
 # FAQ (Coming soon! Stay tuned!)
 
 * [How to use]()
-* [How to contribute](ttps://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/How-To-Contribute.md)
+* [How to contribute](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/How-To-Contribute.md)
 
 # Support (Coming soon! Stay tuned!)
 
