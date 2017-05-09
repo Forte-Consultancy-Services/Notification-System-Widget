@@ -24,7 +24,7 @@ To build a notification system widget for web apps and mobile apps in the sharin
 
 # Instructions to use the Notification System Widget :star:
 
-Adapt the Notification System Widget to your project, but don't forget to acknowledge the author according to the [license](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/LICENSE.md) at the [top of every code template file (html, css, etc.) as a comment](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/How-To-Use.md) and as a link in your tech stack like this
+Adapt the latest release of the Notification System Widget to your project, but don't forget to acknowledge the author according to the [license](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/LICENSE.md) at the [top of every code template file (html, css, etc.) as a comment](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/How-To-Use.md) and as a link in your tech stack like this
 
 * [Notification System Widget](https://github.com/Forte-Consultancy-Services/Notification-System-Widget)
 
@@ -37,11 +37,11 @@ Adapt the Notification System Widget to your project, but don't forget to acknow
 * [Change Log](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/compare/v1.0...master)
 * [First Bug]()
 
-# Contributor Code of Conduct
+# Contributor Code of Conduct (Coming soon! Stay tuned!)
 
 The [Code of Conduct](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/CODE-OF-CONDUCT.md) is adapted from the [Contributor Covenant](http://contributor-covenant.org/), version 1.4, available at http://contributor-covenant.org/version/1/4.
 
-# FAQ (Coming soon! Stay tuned!)
+# FAQ 
 
 * [How to use](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/How-To-Use.md)
 * [How to contribute](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/How-To-Contribute.md)
