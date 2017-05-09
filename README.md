@@ -13,13 +13,14 @@ To build a notification system widget for web apps and mobile apps in the sharin
 * [favico.js](http://lab.ejci.net/favico.js/)
 
 # Instructions to run the Notification System Widget :star::
-1) Decompress the WinRAR ZIP archive
 
-2) Start the preferred server (GO, JS, PHP, PL, Python, Ruby)
+1) Download the WinRAR ZIP archive of the latest release
 
-3) Go to http://localhost:3000
- 
-4) Adapt to your project, but don't forget to acknowledge the author according to the [license](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/LICENSE.md) at the top of every code template file as a comment (Coming soon! Stay tuned!). 
+2) Decompress the WinRAR ZIP archive of the latest release
+
+3) Start the preferred server (GO, JS, PHP, PL, Python, Ruby) by double-clicking the respective file
+
+4) Go to http://localhost:3000 and see the [Notification System Widget](https://drive.google.com/file/d/0B3o-a_7h0VNMQXd2VmpjOThJcWc/view?usp=sharing) in action 
 
 # Guide to contribute to this project (Coming soon! Stay tuned!)
 
