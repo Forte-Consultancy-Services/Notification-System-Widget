@@ -54,6 +54,7 @@ The [Code of Conduct](https://github.com/Forte-Consultancy-Services/Notification
   * general - team-wide communication and announcements in this channel
   * network - network for new tech opportunities, learn from one another, and talk about tech in this channel
   * request - request to join adapters (users), codeofconduct, contributors, and maintainers (private channels) in this channel
+  * teamwatcher - report instances of abusive, harassing, or otherwise unacceptable behavior to the project team in this channel
   * walloffame - acknowledges members for their time, effort, and contribution in this channel
  
 # License
