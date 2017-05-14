@@ -41,10 +41,11 @@ Adapt the [latest release](https://github.com/Forte-Consultancy-Services/Notific
 
 The [Code of Conduct](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/CODE-OF-CONDUCT.md) is adapted from the [Contributor Covenant](http://contributor-covenant.org/), version 1.4, available at http://contributor-covenant.org/version/1/4.
 
-# FAQ 
+# FAQ (Coming soon! Stay tuned!)
 
 * [How to use](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/How-To-Use.md)
 * [How to contribute](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/How-To-Contribute.md)
+* [How to volunteer]()
 
 # Support (Coming soon! Stay tuned!)
 
