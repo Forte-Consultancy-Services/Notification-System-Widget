@@ -49,7 +49,7 @@ The [Code of Conduct](https://github.com/Forte-Consultancy-Services/Notification
 
 # Support (Coming soon! Stay tuned!)
 
-* [Join the discussion on Slack]()
+* [Join the discussion on Slack](https://notification-system.slack.com/shared_invite/MTg0MTE2NzE0MTE5LTE0OTQ3NzM1NDItM2RiNjRmOTYxMQ)
   * faq - ask questions about using, contributing, or volunteering to the Notification System Widget in this channel 
   * general - team-wide communication and announcements in this channel
   * network - network for new tech opportunities, learn from one another, and talk about tech in this channel
