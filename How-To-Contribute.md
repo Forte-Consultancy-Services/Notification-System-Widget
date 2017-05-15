@@ -1,6 +1,6 @@
 1) Familiarize yourself with the [contributor code of conduct](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/CODE-OF-CONDUCT.md) to have an effective contributor experience.
 
-2) [Fork](https://drive.google.com/file/d/0B3o-a_7h0VNMMGE1emUxc1lxa1U/view?usp=sharing) the Notification System Widget repo by clicking on the "Fork" button at the top right-hand side of the repo and find a bug (e.g. code, documentation, accessibility, test coverage) or think of a quick question. For questions that require more lengthy discussions, join the [Slack team]().
+2) [Fork](https://drive.google.com/file/d/0B3o-a_7h0VNMMGE1emUxc1lxa1U/view?usp=sharing) the Notification System Widget repo by clicking on the "Fork" button at the top right-hand side of the repo and find a bug (e.g. code, documentation, accessibility, test coverage) or think of a quick question. For questions that require more lengthy discussions, join the [Slack team](https://notification-system.slack.com/shared_invite/MTg0MTE2NzE0MTE5LTE0OTQ3NzM1NDItM2RiNjRmOTYxMQ).
 
 3) Raise an [issue](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/issues/new) by indicating a title for the issue, what the issue is, why is it an issue, what needs improvement or fixing, and what can be done to improve or fix it. Label the issue (e.g. bug, documentation, accessibility, test coverage). See [Raise Issue Template](https://drive.google.com/file/d/0B3o-a_7h0VNMZ3hCUEpPZ0g2OFU/view?usp=sharing)
 
