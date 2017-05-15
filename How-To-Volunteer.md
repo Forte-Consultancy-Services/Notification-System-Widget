@@ -1,4 +1,4 @@
-Provide the following in the #request on Slack:-
+Please provide the following in the #request on Slack and check your email for the invite to join:-
 
 ```
    First Name
