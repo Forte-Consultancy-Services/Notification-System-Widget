@@ -5,5 +5,5 @@ Provide the following in the #request on Slack:-
    GitHub Username
    Email Address
    #channel to join (#adapters, #codeofconduct, #contributors, #maintainers)
-   Reason for joining```
-
+   Reason for joining
+```
