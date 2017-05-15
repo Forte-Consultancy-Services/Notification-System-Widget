@@ -12,4 +12,4 @@
  
 7) Thanks for your invaluable contribution. :heart:
 
-8) Your username will appear on the #walloffame on Slack.
+8) Your username will appear on the #walloffame on Slack. :crown:
