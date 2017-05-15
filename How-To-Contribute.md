@@ -11,3 +11,5 @@
 6) Upon passing the status checks, the improvement or fixture will be merged with the master branch and the issue will be closed by the author.
  
 7) Thanks for your invaluable contribution. :heart:
+
+8) Your username will appear on the #walloffame on Slack.
