@@ -10,7 +10,7 @@
 
 5) Upon pull request review approval by the author or maintainers, status checks will be carried out.
 
-6) Upon passing the status checks, the improvement or fixture will be merged with the master branch and the issue will be closed by the author.
+6) Upon passing the status checks, the improvement or fixture will be merged with the master branch and the issue will be closed by the author or maintainers.
  
 7) Thanks for your invaluable contribution. :heart:
 
