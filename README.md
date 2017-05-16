@@ -28,7 +28,7 @@ Adapt the [latest release](https://github.com/Forte-Consultancy-Services/Notific
 
 * [Notification System Widget](https://github.com/Forte-Consultancy-Services/Notification-System-Widget)
 
-# Guide to contribute to this project (Coming soon! Stay tuned!)
+# Guide to contribute to this project 
 
 * [Background](https://drive.google.com/file/d/0B3o-a_7h0VNMamRKaTZ0TXhkd28/view?usp=sharing)
 * [Source Code](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/index.html)
@@ -37,11 +37,11 @@ Adapt the [latest release](https://github.com/Forte-Consultancy-Services/Notific
 * [Change Log](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/compare/v1.0...master)
 * [First Bug](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/issues/2)
 
-# Contributor Code of Conduct (Coming soon! Stay tuned!)
+# Contributor Code of Conduct 
 
 The [Code of Conduct](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/CODE-OF-CONDUCT.md) is adapted from the [Contributor Covenant](http://contributor-covenant.org/), version 1.4, available at http://contributor-covenant.org/version/1/4.
 
-# FAQ (Coming soon! Stay tuned!)
+# FAQ 
 
 * [How to use](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/How-To-Use.md)
 * [How to contribute](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/How-To-Contribute.md)
