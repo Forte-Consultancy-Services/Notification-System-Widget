@@ -1,4 +1,4 @@
-'Note: For [First Bug](), go straight to step 4.'
+>Note: For [First Bug](), go straight to step 4.
 
 1) Familiarize yourself with the [contributor code of conduct](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/CODE-OF-CONDUCT.md) to have an effective contributor experience.
 
