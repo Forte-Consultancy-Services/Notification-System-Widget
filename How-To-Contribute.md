@@ -8,7 +8,7 @@
 
 4) Work on the improvement or fixture of each issue on a separate branch (label branch using issue number) and [send a pull request](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/pulls) for review, comparing a new head branch of modifications with the base branch by selecting the associated issue number as the new head branch with the pull request. See [Send Pull Request Template](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/compare)
 
-5) Upon pull request review approval by the author or maintainers, status checks will be carried out. Pull request reviews are carried out in order of priority, with those labelled as high priority being reviewed before the medium priority and the low priority pull requests.
+5) Upon pull request review approval by the author or maintainers, status checks will be carried out. Pull request reviews are carried out in order of priority, with those labelled as **_high priority (easy fix)_** being reviewed before the **_medium priority (middle-of-the-road fix)_** and the **_low priority (difficult fix)_** pull requests.
 
 6) Upon passing the status checks, the improvement or fixture will be merged with the master branch and the issue will be closed by the author or maintainers.
  
