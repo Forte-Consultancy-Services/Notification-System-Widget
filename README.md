@@ -47,7 +47,7 @@ The [Code of Conduct](https://github.com/Forte-Consultancy-Services/Notification
 * [How to contribute](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/How-To-Contribute.md)
 * [How to volunteer](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/How-To-Volunteer.md)
 
-# Support (Coming soon! Stay tuned!)
+# Support 
 
 * [Join the discussion on Slack](https://notification-system.slack.com/shared_invite/MTg0MTE2NzE0MTE5LTE0OTQ3NzM1NDItM2RiNjRmOTYxMQ)
   * faq - ask questions about using, contributing, or volunteering to the Notification System Widget in this channel 
