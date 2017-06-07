@@ -1,4 +1,4 @@
->Note: For [First Bug](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/issues/2), go straight to step 4. All types of contributions are welcome. :smile:
+>Note: For [First Bug](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/issues/2), go straight to step 4. Join the [Slack team](https://notification-system.slack.com/shared_invite/MTg0MTE2NzE0MTE5LTE0OTQ3NzM1NDItM2RiNjRmOTYxMQ). All types of contributions are welcome. :smile:
 
 1) Familiarize yourself with the [contributor code of conduct](https://github.com/Forte-Consultancy-Services/Notification-System-Widget/blob/master/CODE-OF-CONDUCT.md) to have an effective contributor experience.
 
