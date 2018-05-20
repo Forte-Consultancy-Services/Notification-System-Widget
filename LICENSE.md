@@ -1,6 +1,6 @@
 BSD 3-Clause License
 
-Copyright © 2016-2017 Linda Lim. All Rights Reserved.
+Copyright © 2016 Linda Lim. All Rights Reserved.
 
 No content, images, videos, audio clips, visual design, and the logotype are to be copied and distributed without the authors' or copyright holders' permission. All other applications are covered by the BSD 3-Clause License.
 
